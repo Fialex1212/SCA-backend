@@ -53,7 +53,7 @@ This backend API provides a management system for the Spy Cat Agency to manage t
 1. **Clone the repository:**
 
 ```cmd
-    git clone https://github.com/Fialex1212/react-fastapi-todo.git
+    git clone https://github.com/Fialex1212/SCA-backend.git
 ```
 
 2. **Build the image:**
