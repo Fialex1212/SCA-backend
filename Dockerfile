@@ -1,0 +1,7 @@
+FROM postgres:latest
+
+ENV POSTGRES_USER=admin
+ENV POSTGRES_PASSWORD=securepassword
+ENV POSTGRES_DB=cats
+
+EXPOSE 5432
